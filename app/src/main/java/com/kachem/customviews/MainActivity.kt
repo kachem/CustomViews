@@ -3,7 +3,7 @@ package com.kachem.customviews
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 
-class Main2Activity : AppCompatActivity() {
+class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
